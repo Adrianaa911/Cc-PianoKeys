@@ -92,7 +92,6 @@ lastLyric.style.display = 'none';
 
 }
 
-
 // This is the event handler property and function for the startOver button
 startOver.onclick = function() {
   nextOne.hidden = false;
