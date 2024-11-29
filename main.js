@@ -6,7 +6,7 @@ keys.forEach(function(key){
 })
 
 // Write named functions that change the color of the keys below
-cont keyPlay = function(event){
+const keyPlay = function(event){
   event.target.style.backgroundColor = 'pink';
 }
 const keyReturn = function(event){
